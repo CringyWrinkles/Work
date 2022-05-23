@@ -6,7 +6,7 @@ local ohCFrame3 = CFrame.new(-13.5999994, 1.90000439, -27.7999992, 1, 0, 0, 0, 1
 
 game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
 
-e
+
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Hamburger"
